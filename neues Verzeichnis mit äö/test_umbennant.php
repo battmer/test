@@ -15,7 +15,17 @@ echo "test sdfg";
 
 
  class test{
+     /**
+      * asdfasdfasdföklj asödofi 
+      
+      *
+      * @return void
+      */
      public function test(){
          echo "aysdfg";
      }
  }
+
+ $a= new test();
+ $a->klaus();
+

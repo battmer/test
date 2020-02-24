@@ -2,8 +2,20 @@
 echo "test sdfg";
 // das geht auch hier
 /**
- * das ist tolle
+* das ist tolle
 * asdfasdfasd
 * nur in branch1
-+asdfasdfasf
- */
+*/
+
+ if (!r=='10') {
+     echo "asdfg";
+
+     # code...
+ }
+
+
+ class test{
+     public function test(){
+         echo "aysdfg";
+     }
+ }
